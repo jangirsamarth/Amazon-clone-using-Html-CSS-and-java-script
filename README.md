@@ -1,3 +1,3 @@
-# Cloning Amazon site with HTML & CSS
+#This is my try on learning web development 
 
-The source code and assistance guide for the [IronHack's](http://ironhack.com) "Cloning Amazon site with HTML & CSS" video tutorial.
+this is a very basic amazon.com website using html, css and java script
